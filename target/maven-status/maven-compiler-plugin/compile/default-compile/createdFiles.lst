@@ -1,0 +1,10 @@
+Vista\VentanaLogin.class
+Controlador\Principal.class
+Dao\UsuarioDao.class
+Modelo\Logica.class
+Controlador\Coordinador.class
+Vista\VentanaConsultaIndividual.class
+Controlador\Aplicacion.class
+conexion\Conexion.class
+Vista\VentanaPrincipal.class
+Vista\VentanaLogin$1.class
